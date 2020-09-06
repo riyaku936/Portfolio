@@ -10,9 +10,7 @@ The aim of this Java based project was to develop a shell similar to the termina
 
 ## Additonal information
 <ul>
-<li>For the Machine Leanring and Image Processing part of the application the following tutorial was followed: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
-<br>
-<li>To train the ML algorithm I utilised the MNIST dataset
+<li> This was a University project compeleted alongside two other students.
   </ul>
 
 ## Technologies used:
