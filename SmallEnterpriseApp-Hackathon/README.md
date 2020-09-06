@@ -10,7 +10,7 @@ The goal of this Java project is to develop a mobile application that recommends
 
 ## Technologies used
 <ul>
-  <li> Google Maps APIR
+  <li> Google Maps API
   <li> Yelp API
   <li> Android Studio
   <li> Java 
