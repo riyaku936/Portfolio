@@ -1,4 +1,4 @@
-# Sudoku Scanner Solver
+# AutoPlay-Tetris
 
 ## Quick Links
 
