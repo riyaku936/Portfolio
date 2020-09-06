@@ -107,11 +107,7 @@ def getInfoAboutMovie(movie):
     plot = movie.get('plot')[0]
 
     withAuthor = plot.split("::")
-    print("this is plot:")
-    print(plot)
 
-    print("withAuthor")
-    print(withAuthor)
 
     withAuthor.pop()
 
@@ -122,8 +118,6 @@ def getInfoAboutMovie(movie):
     
     plot = strResult
 
-    print("this is plot:")
-    print(plot)
 
     poster_response = omdb.search_movie(name, timeout=5)
     if(len(poster_response) == 0):
