@@ -28,6 +28,7 @@ The goal of this Python based project was to develop a system that scans a sudok
 <br>
 <li>To train the ML algorithm I utilised the MNIST dataset
   <\ul>
+
 ## Technologies used:
 <ul>
   <li> Convolutional Neural Networks
