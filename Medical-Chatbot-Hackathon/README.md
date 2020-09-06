@@ -2,6 +2,7 @@
 
 ## Quick Links
 **Youtube video of project demo:** [https://www.youtube.com/watch?v=VaH56ElhJNI](https://www.youtube.com/watch?v=VaH56ElhJNI)
+**Link to Microsoft Article publishing results for the Hackathon this project was entered in**: https://techcommunity.microsoft.com/t5/educator-developer-blog/hospital-innovation-with-computer-science-students-on-azure-fhir/ba-p/1451268
 
 ## Directory Structure
 ```
