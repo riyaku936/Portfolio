@@ -5,7 +5,7 @@
 **Youtube video of project demo:** https://youtu.be/lutvnmfVn6k 
 
 ## Directory Structure
-
+```
 |-MLHELPERFNS
   |-puzzle.py --> contains the functions to find the puzzle in the image and extract the digits from the image
 |-MLIMAGEPROC
@@ -17,7 +17,7 @@
 |-SOLVERVISUALISER
   |-sudokuAlgo.py --> contains the backtracking algorithm to solve the sudoku puzzle
   |-sudokuGUI.py --> contains the pygame code to display and visualise the backtracking algorithm as it solves the sudoku code
-
+```
 ## Project Information
 
 The goal of this Python based project was to develop a system that scans a sudoku puzzle via the webcam and returns the solution to the user. The first step involves extracting the sudoku board from the captured image via Image Processing. The numbers on the sudoku board are then recognised by a Machine Learning model I trained using the MNIST dataset. The sudoku puzzle is then solved via the backtracking algorithm and the solving process is visualised using the pygame library. 
