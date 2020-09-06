@@ -1,29 +1,21 @@
-SIMPLE COMMANDS:
-================
-echo hello
-grep "123" TestFolder/testing2.txt
-ls
-cd
-pwd
+# Sudoku Scanner Solver
 
-INVALID COMMANDS:
-=================
-rm -r invalidFileName
+## Quick Links
 
+**Youtube video of project demo:** https://youtu.be/spOvrUbw0uo
 
-COMPLEX COMMANDS 
-===================
---> PIPE OPERATOR
-cat TestFolder/testing1.txt | tail -n 11
+## Project Information
 
---> REDIRECTION FUNCTION
-head -n 10 < TestFolder/testing1.txt
+The goal of this Python based project was to develop an auto player for the Atari game “Tetris”. To determine the best move the autoplayer assigns a score to each possible move based on factors such as  “how many lines are cleared?” and “what is the max height after the move is made”. These factors were collected and Weightings for each factor was set to create an optimal algorithm. In the end the autoplayer I developed achieved a median score of 45,000.
 
---> SEQUENCE OF COMMANDS
-echo hi; echo ho ; echo he
-
---> BACKTICKS OPERATOR
-wc -l `find -name 'testing1.txt'`
+## Additonal information
+<ul>
+<li> This was a University Project completed in the First Year
  
---> REGULAR EXPRESSIONS 
-cat TestFolder/testing*.txt
+  </ul>
+
+## Technologies used:
+<ul>
+  <li> Python
+   <li> Heuristic Function
+  </ul>
