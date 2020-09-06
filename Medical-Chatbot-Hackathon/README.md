@@ -46,5 +46,5 @@ Therefore, it can be observed that the key technologies utilized are Google Dial
 Overall this project has allowed me to gain a deeper understanding into how Google Dialogflow works. In addition to this I have also been able to improve my python skills while creating the python script. Perhaps in the future, I would like to add more patient parameters (e.g. ECG rate) that could be retrieved by a medical staff member. Furthermore, the next steps would also involve working with hospitals to integrate the technology into a clinical setup.
 
 
-## Project Information
+## Additional Information
 This project was complete in the UCL-GOSH FHIRworks hackathon. My project was one of the top 25 submissions to be selected out of 116 submissions. It is now published officially with the Great Ormond Street Hospital.
