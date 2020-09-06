@@ -1,29 +1,23 @@
-SIMPLE COMMANDS:
-================
-echo hello
-grep "123" TestFolder/testing2.txt
-ls
-cd
-pwd
+# NHS Project
 
-INVALID COMMANDS:
-=================
-rm -r invalidFileName
+## Quick Links
 
+**Youtube video of project demo:** https://youtu.be/lPePAQ7_pfg
 
-COMPLEX COMMANDS 
-===================
---> PIPE OPERATOR
-cat TestFolder/testing1.txt | tail -n 11
+## Project Information
 
---> REDIRECTION FUNCTION
-head -n 10 < TestFolder/testing1.txt
+The goal of this C# based project was to develop a search system for medical policies in the NHS. An interactive chatbot was designed for the user interface of the search system using the Azure Bot Framework and LUIS. Additionally to make the search system faster for a large database of documents Azure Databricks was utilised. In the end it was found that for 88% of client queries the system returned the relevant policy in the top 5 results.
 
---> SEQUENCE OF COMMANDS
-echo hi; echo ho ; echo he
+## Additonal information
+<ul>
+<li>This was a client based University project
+ <li> I as the team leader for my team and I completed it with two other team members
+  </ul>
 
---> BACKTICKS OPERATOR
-wc -l `find -name 'testing1.txt'`
- 
---> REGULAR EXPRESSIONS 
-cat TestFolder/testing*.txt
+## Technologies used:
+<ul>
+  <li> Azure Bot Framework
+   <li> LUIS
+    <li> Azure Databricks
+     <li> C#
+  </ul>
