@@ -11,7 +11,7 @@ The goal of this C# based project was to develop a search system for medical pol
 ## Additonal information
 <ul>
 <li>This was a client based University project
- <li> I as the team leader for my team and I completed it with two other team members
+ <li> I was the team leader for my team and I completed this project with two other team members
   </ul>
 
 ## Technologies used:
