@@ -1,4 +1,4 @@
-# Amer-Expr-Hackthon
+# SmallEnterpriseApp-Hackathon
 
 ## Quick Links
 
