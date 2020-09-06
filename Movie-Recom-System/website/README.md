@@ -1,4 +1,4 @@
-# Sudoku Scanner Solver
+# Movie Recommendation System
 
 ## Quick Links
 
