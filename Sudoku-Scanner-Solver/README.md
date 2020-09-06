@@ -25,10 +25,12 @@ The goal of this Python based project was to develop a system that scans a sudok
 ## Additonal information
 
 For the Machine Leanring and Image Processing part of the application the following tutorial was followed: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
-
+<br>
+To train the ML algorithm I utilised the MNIST dataset
 ## Technologies used:
 <ul>
   <li> Convolutional Neural Networks
+    <li> MNIST dataset
     <li> Image processing
       <li> pygame
         <li> backtracking
