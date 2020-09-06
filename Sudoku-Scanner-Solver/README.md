@@ -24,7 +24,7 @@ The goal of this Python based project was to develop a system that scans a sudok
 
 ## Additonal information
 <ul>
-<li>For the Machine Learning and Image Processing part of the application the following tutorial was followed: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
+<li>For the Machine Learning and Image Processing part of the application I followed this tutorial: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
 <br>
 <li>To train the ML algorithm I utilised the MNIST dataset
   </ul>
