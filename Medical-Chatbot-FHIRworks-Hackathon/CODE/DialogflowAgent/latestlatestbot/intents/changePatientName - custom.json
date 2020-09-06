@@ -1,0 +1,49 @@
+{
+  "id": "0bfeae70-1f66-4ba8-ba3d-d8736a7dfa6a",
+  "parentId": "666f23c5-8cd3-438a-a81f-c8609ad5f57d",
+  "rootParentId": "666f23c5-8cd3-438a-a81f-c8609ad5f57d",
+  "name": "changePatientName - custom",
+  "auto": true,
+  "contexts": [
+    "changePatientName-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5ea08ef-b31c-46cd-9832-6feaf0d7f964",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

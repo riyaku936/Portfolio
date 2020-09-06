@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6819210d-4423-4d6a-b382-6e7f545847b2",
+    "data": [
+      {
+        "text": "basic patient info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16815cbd-1851-4884-b416-6bb74f40f4ea",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a28c51b9-f1f4-4779-bc9a-9a5cf575fd49",
+    "data": [
+      {
+        "text": "get background information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3561b10d-ec51-431b-b4f0-20d250050a1d",
+    "data": [
+      {
+        "text": "basic patient information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9b6840f2-e7f1-47da-afeb-a5a671bef7ee",
+    "data": [
+      {
+        "text": "vital sign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21fec15a-02ce-4d74-85cb-a58f0df5f712",
+    "data": [
+      {
+        "text": "vital signs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

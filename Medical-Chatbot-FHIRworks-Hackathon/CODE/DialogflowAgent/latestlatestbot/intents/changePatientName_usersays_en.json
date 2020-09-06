@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f84431d4-3c62-4384-ab4b-3ed50ecbb75b",
+    "data": [
+      {
+        "text": "Get Data for New Patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15eec853-06a0-4684-a221-cdada8648e79",
+    "data": [
+      {
+        "text": "new patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6f4611f-613b-4b65-9c0a-d7aac786700f",
+    "data": [
+      {
+        "text": "use new patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

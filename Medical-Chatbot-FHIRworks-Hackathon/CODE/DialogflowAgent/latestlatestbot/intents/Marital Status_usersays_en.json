@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8fcabcf4-c1b9-4d63-a451-af1c22c5147b",
+    "data": [
+      {
+        "text": "Marital Status Distrib.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8344091d-2d40-4e95-ac89-7d47c0faeb15",
+    "data": [
+      {
+        "text": "Marital Status Spread",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

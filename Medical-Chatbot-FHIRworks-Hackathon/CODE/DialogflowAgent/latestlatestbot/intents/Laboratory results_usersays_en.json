@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5137fb80-d81a-457a-85ed-2124f173b39e",
+    "data": [
+      {
+        "text": "Laboratory results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91efcaa4-3e99-41aa-9cfb-e570077fd031",
+    "data": [
+      {
+        "text": "lab result",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee4e383-e429-43a8-b95e-cd9ebf7f8ac0",
+    "data": [
+      {
+        "text": "lab results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]
