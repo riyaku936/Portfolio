@@ -23,10 +23,11 @@
 The goal of this Python based project was to develop a system that scans a sudoku puzzle via the webcam and returns the solution to the user. The first step involves extracting the sudoku board from the captured image via Image Processing. The numbers on the sudoku board are then recognised by a Machine Learning model I trained using the MNIST dataset. The sudoku puzzle is then solved via the backtracking algorithm and the solving process is visualised using the pygame library. 
 
 ## Additonal information
-
-For the Machine Leanring and Image Processing part of the application the following tutorial was followed: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
+<ul>
+<li>For the Machine Leanring and Image Processing part of the application the following tutorial was followed: https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
 <br>
-To train the ML algorithm I utilised the MNIST dataset
+<li>To train the ML algorithm I utilised the MNIST dataset
+  <\ul>
 ## Technologies used:
 <ul>
   <li> Convolutional Neural Networks
