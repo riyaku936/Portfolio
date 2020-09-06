@@ -4,13 +4,13 @@
 **Youtube video of project demo:** [https://www.youtube.com/watch?v=VaH56ElhJNI](https://www.youtube.com/watch?v=VaH56ElhJNI)
 
 ## Directory Structure
-
+```
 CODE
 | - cardsList.py --> this is python file contains the JSON representation of the cards presented by the chatbot 
 | - FHIRFunctions.py --> this python file contains the functions that allow me to access the patient data
 | - DialogflowAgent --> this folder contains a representation of the DialogflowAgent used by the chatbot
 | - CurrentPatientDetails.py and testingFlaskAndDialogFlow.py --> this folder contains the code that sends data to and from the Google assistant chatbot
-
+```
 ## Project Information
 
 **Introduction**
