@@ -23,8 +23,14 @@ The goal of this Python based project was to develop a system that can take a mo
 
 ## Technologies used
 <ul>
-  <li> Flask <\li>
-  <li> Flask <\li>
+  <li> Beautiful Soup
+  <li> IMDb API
+  <li> OMDb API
+  <li> Flask 
+  <li> Cosine Similarity
+  <li> Kaggle Dataset
+  <li> Movie Lens Dataset
+  
 </ul>
     
 
