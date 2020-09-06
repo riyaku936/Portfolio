@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-**Youtube video of project demo:** https://youtu.be/lutvnmfVn6k
+**Youtube video of project demo:** https://www.youtube.com/watch?v=VIT9vy7QKEM
 
 ## Project Information
 
