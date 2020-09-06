@@ -1,4 +1,4 @@
-# SmallEnterpriseApp-American Express Hackathon
+# SmallEnterpriseApp - American Express Hackathon
 
 ## Quick Links
 
