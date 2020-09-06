@@ -20,3 +20,13 @@
 ## Project Information
 
 The goal of this Python based project was to develop a system that can take a movie title and return similar movies available on TV, Amazon & Netflix. The application uses cosine similarity and the Movie Lens dataset to identify similar movies. These similar movies are then found by web scraping TV schedules via Beautiful Soup. Similar movies on Netflix & Amazon are extracted from the Kaggle datasets. The IMDB & OMDb APIs were then called to extract movie information to display to the user. 
+
+## Technologies used
+<ul>
+  <li> Flask <\li>
+  <li> Flask <\li>
+</ul>
+    
+
+## Additional Information
+All the datasets for this project were taken from kaggle.
