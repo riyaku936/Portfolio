@@ -1,29 +1,23 @@
-SIMPLE COMMANDS:
-================
-echo hello
-grep "123" TestFolder/testing2.txt
-ls
-cd
-pwd
+# Equical
 
-INVALID COMMANDS:
-=================
-rm -r invalidFileName
+## Quick Links
 
+**Youtube video of project demo:** https://youtu.be/lutvnmfVn6k
 
-COMPLEX COMMANDS 
-===================
---> PIPE OPERATOR
-cat TestFolder/testing1.txt | tail -n 11
+## Project Information
 
---> REDIRECTION FUNCTION
-head -n 10 < TestFolder/testing1.txt
+I am currently developing a revision management website alongside two other students using Django and Python. The user inputs topics they have studied throughout the day and the application recommends when to revisit the topic for maximum retention. These results are added automatically to the user’s Google Calendar. As Co-Tech lead of the project I had a key role in developing the sign in system. I utilised the Google Calendar API and Firebase to sign in the user via Gmail and authorise permissions to access the user’s Google Calendar. 
 
---> SEQUENCE OF COMMANDS
-echo hi; echo ho ; echo he
+## Additonal information
+<ul>
+<li> This is a group project I am developing with 2 other friends 
+<br>
+<li> We hope the publish the website later in the year
+  </ul>
 
---> BACKTICKS OPERATOR
-wc -l `find -name 'testing1.txt'`
- 
---> REGULAR EXPRESSIONS 
-cat TestFolder/testing*.txt
+## Technologies used:
+<ul>
+  <li> Flask
+   <li> Google Calendar API
+    <li> Firebase
+  </ul>
