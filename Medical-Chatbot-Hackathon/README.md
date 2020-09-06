@@ -48,4 +48,4 @@ Overall this project has allowed me to gain a deeper understanding into how Goog
 
 
 ## Additional Information
-This project was complete in the UCL-GOSH FHIRworks hackathon. My project was one of the top 25 submissions to be selected out of 116 submissions. It is now published officially with the Great Ormond Street Hospital.
+This project was completed in the UCL-GOSH FHIRworks hackathon. My project was one of the top 25 submissions to be selected out of 116 submissions. It is now published officially with the Great Ormond Street Hospital.
